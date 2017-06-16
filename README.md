@@ -12,7 +12,7 @@ http://creativecommons.org/licenses/by/4.0/
 HARDWARE:
 
 
-An Eagle 6 board layout file is included in the eagle/ folder. There is also a design for a "programming cradle" that mates the test points on the UMR2 with a PIC programmer. 
+An Eagle 6 board layout file and BOM are included in the pcb/ folder. There is also a design for a "programming cradle" that mates the test points on the UMR2 with a PIC programmer. 
 
 
 A public CircuitHub project is available for on-demand manufacturing:
